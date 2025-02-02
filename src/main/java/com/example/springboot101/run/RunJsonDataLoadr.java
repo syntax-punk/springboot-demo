@@ -1,7 +1,6 @@
 package com.example.springboot101.run;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.slf4j.ILoggerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
